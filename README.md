@@ -13,9 +13,9 @@ downloaded file with SHA-256, replaces the current executable, and restarts.
 
 ## Latest version
 
-- Version: `1.0.0`
+- Version: `0.1`
 - Platform: Windows 64-bit
-- SHA-256: `0B948AD9F6A3BF98B0A71F248AF65C0C4384C47F36A04768A323BB47B06C05DC`
+- SHA-256: `5A595C427BED75975B775A500DD75EC6A100A5E06861A501B4DE0488EF327032`
 
 The source repository remains private.
 Public release channel for the Voltage Drop Calculator

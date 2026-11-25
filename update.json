@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/cszmw2k6dk-design/voltage-drop-releases/releases/download/v1.0.0/VoltageDropCalculator.exe",
-  "sha256": "0B948AD9F6A3BF98B0A71F248AF65C0C4384C47F36A04768A323BB47B06C05DC",
-  "notes": "支持多 Solaris 板型、LYNX Item Code 独立长度、逐串压降及中英文切换。Supports multiple Solaris board profiles, per-Item-Code LYNX lengths, per-string voltage drop, and bilingual UI."
+  "version": "0.1",
+  "url": "https://github.com/cszmw2k6dk-design/voltage-drop-releases/releases/download/v0.1/VoltageDropCalculator.exe",
+  "sha256": "5A595C427BED75975B775A500DD75EC6A100A5E06861A501B4DE0488EF327032",
+  "notes": "v0.1 初始公开版本，包含在线更新、LYNX Item Code 独立压降、多 Solaris 板型和中英文切换。Initial public v0.1 release with online updates, per-Item-Code LYNX drops, multiple Solaris board profiles, and a bilingual UI."
 }
